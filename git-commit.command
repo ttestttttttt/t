@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/vuong/Desktop/cookie
+cd /Users/vuong/Documents/cookie
 git add .
 git commit -m "ok"
 git push
